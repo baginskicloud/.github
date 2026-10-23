@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: Baginski Costa
+message: "If you use this software, please cite it as follows."
+type: software
+authors:
+  - given-names: Eduardo
+    family-names: Baginski Costa
+    email: baginskicosta@gmail.com
+    affiliation: Baginski Costa
+    orcid: "https://orcid.org/0009-0004-8118-7168"
+  - name: Baginski Costa
+    city: Palmeira
+    country: BR
+    post-code: "84130000"
+    region: PR
+    alias: Baginski
+    email: baginskicosta@gmail.com
+    website: "https://github.com/baginskicloud"
+    orcid: "https://orcid.org/0009-0004-8118-7168"
+repository-code: "https://github.com/baginskicloud"
+url: "https://github.com/baginskicloud"
+license: MIT
